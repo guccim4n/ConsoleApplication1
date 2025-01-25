@@ -32,6 +32,8 @@ int main()
             && people[i].age >= 50)
         {
             cout << "Age: " << people[i].age << " Lastname: " << people[i].lastname << " ";
+            cout << "rew";
+            cout << "rew";
         }
     }
 
